@@ -1,0 +1,234 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike Street Gato - Magos Edition",
+      "slug": "nike-street-gato-magos",
+      "description": "Zapatillas de fútbol sala diseñadas para los reyes del fútbol. Tecnología avanzada para máximo control y comodidad en la cancha.",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "category": "futbol-sala",
+      "brand": "Nike",
+      "images": [
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Purple+Magos+Edition+Futsal+Shoes",
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Purple+Side+View+Detail",
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Purple+Sole+Technology"
+      ],
+      "variants": [
+        { "size": "38", "stock": 5 },
+        { "size": "39", "stock": 8 },
+        { "size": "40", "stock": 12 },
+        { "size": "41", "stock": 15 },
+        { "size": "42", "stock": 10 },
+        { "size": "43", "stock": 7 },
+        { "size": "44", "stock": 3 }
+      ],
+      "colors": ["Purple", "Black", "Red"],
+      "featured": true,
+      "onSale": true,
+      "tags": ["futbol-sala", "nike", "magos", "street-gato"]
+    },
+    {
+      "id": "2",
+      "name": "Nike Street Gato - Black Edition",
+      "slug": "nike-street-gato-black",
+      "description": "Versión clásica en negro de las zapatillas Street Gato. Perfectas para entrenamientos intensivos y partidos profesionales.",
+      "price": 119.99,
+      "originalPrice": 149.99,
+      "category": "futbol-sala",
+      "brand": "Nike",
+      "images": [
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Black+Edition+Futsal+Shoes",
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Black+Side+Profile",
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Black+Interior+Detail"
+      ],
+      "variants": [
+        { "size": "38", "stock": 3 },
+        { "size": "39", "stock": 6 },
+        { "size": "40", "stock": 9 },
+        { "size": "41", "stock": 12 },
+        { "size": "42", "stock": 8 },
+        { "size": "43", "stock": 5 },
+        { "size": "44", "stock": 2 }
+      ],
+      "colors": ["Black", "White"],
+      "featured": true,
+      "onSale": true,
+      "tags": ["futbol-sala", "nike", "street-gato", "black"]
+    },
+    {
+      "id": "3",
+      "name": "Nike Street Gato - Red Edition",
+      "slug": "nike-street-gato-red",
+      "description": "Edición especial en rojo vibrante. Diseño audaz para jugadores que quieren destacar en la cancha con estilo y rendimiento.",
+      "price": 134.99,
+      "originalPrice": 164.99,
+      "category": "futbol-sala",
+      "brand": "Nike",
+      "images": [
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Red+Edition+Futsal+Shoes",
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Red+Dynamic+Action+Shot",
+        "https://placehold.co/800x800?text=Nike+Street+Gato+Red+Texture+Close+Up"
+      ],
+      "variants": [
+        { "size": "38", "stock": 4 },
+        { "size": "39", "stock": 7 },
+        { "size": "40", "stock": 11 },
+        { "size": "41", "stock": 14 },
+        { "size": "42", "stock": 9 },
+        { "size": "43", "stock": 6 },
+        { "size": "44", "stock": 3 }
+      ],
+      "colors": ["Red", "White"],
+      "featured": true,
+      "onSale": true,
+      "tags": ["futbol-sala", "nike", "street-gato", "red"]
+    },
+    {
+      "id": "4",
+      "name": "Nike Tiempo - Indoor Pro",
+      "slug": "nike-tiempo-indoor-pro",
+      "description": "Zapatillas Nike Tiempo diseñadas específicamente para fútbol indoor. Máxima tracción y control en superficies lisas.",
+      "price": 109.99,
+      "originalPrice": 139.99,
+      "category": "futbol-sala",
+      "brand": "Nike",
+      "images": [
+        "https://placehold.co/800x800?text=Nike+Tiempo+Indoor+Pro+Navy+Blue+Futsal",
+        "https://placehold.co/800x800?text=Nike+Tiempo+Indoor+Pro+Side+Detail",
+        "https://placehold.co/800x800?text=Nike+Tiempo+Indoor+Pro+Sole+Grip"
+      ],
+      "variants": [
+        { "size": "38", "stock": 6 },
+        { "size": "39", "stock": 9 },
+        { "size": "40", "stock": 13 },
+        { "size": "41", "stock": 16 },
+        { "size": "42", "stock": 11 },
+        { "size": "43", "stock": 8 },
+        { "size": "44", "stock": 4 }
+      ],
+      "colors": ["Navy", "Orange"],
+      "featured": false,
+      "onSale": true,
+      "tags": ["futbol-sala", "nike", "tiempo", "indoor"]
+    },
+    {
+      "id": "5",
+      "name": "Camiseta Dozurtv Pro",
+      "slug": "camiseta-dozurtv-pro",
+      "description": "Camiseta oficial Dozurtv con tecnología Dri-FIT. Perfecta para entrenamientos y uso casual. Diseño moderno y cómodo.",
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "category": "ropa",
+      "brand": "Dozurtv",
+      "images": [
+        "https://placehold.co/800x800?text=Dozurtv+Pro+Jersey+Blue+Athletic+Shirt",
+        "https://placehold.co/800x800?text=Dozurtv+Pro+Jersey+Back+Design",
+        "https://placehold.co/800x800?text=Dozurtv+Pro+Jersey+Fabric+Detail"
+      ],
+      "variants": [
+        { "size": "S", "stock": 15 },
+        { "size": "M", "stock": 20 },
+        { "size": "L", "stock": 18 },
+        { "size": "XL", "stock": 12 },
+        { "size": "XXL", "stock": 8 }
+      ],
+      "colors": ["Blue", "Black", "White"],
+      "featured": true,
+      "onSale": true,
+      "tags": ["ropa", "camiseta", "dozurtv", "dri-fit"]
+    },
+    {
+      "id": "6",
+      "name": "Shorts Dozurtv Elite",
+      "slug": "shorts-dozurtv-elite",
+      "description": "Shorts deportivos de alta calidad con tecnología de secado rápido. Ideales para entrenamientos intensivos y competiciones.",
+      "price": 29.99,
+      "originalPrice": 39.99,
+      "category": "ropa",
+      "brand": "Dozurtv",
+      "images": [
+        "https://placehold.co/800x800?text=Dozurtv+Elite+Shorts+Black+Athletic+Wear",
+        "https://placehold.co/800x800?text=Dozurtv+Elite+Shorts+Side+Pockets",
+        "https://placehold.co/800x800?text=Dozurtv+Elite+Shorts+Waistband+Detail"
+      ],
+      "variants": [
+        { "size": "S", "stock": 12 },
+        { "size": "M", "stock": 18 },
+        { "size": "L", "stock": 16 },
+        { "size": "XL", "stock": 10 },
+        { "size": "XXL", "stock": 6 }
+      ],
+      "colors": ["Black", "Navy", "Gray"],
+      "featured": false,
+      "onSale": true,
+      "tags": ["ropa", "shorts", "dozurtv", "elite"]
+    },
+    {
+      "id": "7",
+      "name": "Medias Dozurtv Performance",
+      "slug": "medias-dozurtv-performance",
+      "description": "Medias técnicas con compresión graduada y tecnología anti-ampollas. Máximo confort durante toda la actividad deportiva.",
+      "price": 14.99,
+      "originalPrice": 19.99,
+      "category": "accesorios",
+      "brand": "Dozurtv",
+      "images": [
+        "https://placehold.co/800x800?text=Dozurtv+Performance+Socks+Athletic+Compression",
+        "https://placehold.co/800x800?text=Dozurtv+Performance+Socks+Fabric+Technology",
+        "https://placehold.co/800x800?text=Dozurtv+Performance+Socks+Color+Variants"
+      ],
+      "variants": [
+        { "size": "35-38", "stock": 25 },
+        { "size": "39-42", "stock": 30 },
+        { "size": "43-46", "stock": 20 }
+      ],
+      "colors": ["White", "Black", "Blue"],
+      "featured": false,
+      "onSale": true,
+      "tags": ["accesorios", "medias", "dozurtv", "performance"]
+    },
+    {
+      "id": "8",
+      "name": "Balón Dozurtv Official",
+      "slug": "balon-dozurtv-official",
+      "description": "Balón oficial de fútbol sala Dozurtv. Certificado FIFA con tecnología de rebote controlado y máxima durabilidad.",
+      "price": 49.99,
+      "originalPrice": 64.99,
+      "category": "accesorios",
+      "brand": "Dozurtv",
+      "images": [
+        "https://placehold.co/800x800?text=Dozurtv+Official+Futsal+Ball+FIFA+Certified",
+        "https://placehold.co/800x800?text=Dozurtv+Official+Ball+Panel+Design",
+        "https://placehold.co/800x800?text=Dozurtv+Official+Ball+Action+Shot"
+      ],
+      "variants": [
+        { "size": "Talla 4", "stock": 15 }
+      ],
+      "colors": ["White/Orange", "Black/Blue"],
+      "featured": true,
+      "onSale": true,
+      "tags": ["accesorios", "balon", "dozurtv", "fifa"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "futbol-sala",
+      "name": "Fútbol Sala",
+      "slug": "futbol-sala",
+      "description": "Zapatillas y equipamiento especializado para fútbol sala"
+    },
+    {
+      "id": "ropa",
+      "name": "Ropa Deportiva",
+      "slug": "ropa",
+      "description": "Camisetas, shorts y ropa técnica para entrenamientos"
+    },
+    {
+      "id": "accesorios",
+      "name": "Accesorios",
+      "slug": "accesorios",
+      "description": "Medias, balones y complementos deportivos"
+    }
+  ]
+}
