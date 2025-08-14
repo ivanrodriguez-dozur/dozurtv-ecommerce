@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/carrito/page": "app/carrito/page.js",
+  "/contacto/page": "app/contacto/page.js",
+  "/nosotros/page": "app/nosotros/page.js",
+  "/page": "app/page.js",
+  "/producto/[slug]/page": "app/producto/[slug]/page.js",
+  "/tienda/page": "app/tienda/page.js"
+}
