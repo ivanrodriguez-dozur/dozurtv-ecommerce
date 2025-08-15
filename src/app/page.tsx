@@ -18,7 +18,7 @@ export default function HomePage() {
     {
       title: "LOS REYES DEL FÚTBOL SALA",
       subtitle: "MAGOS",
-      description: "NIKE STREET GATO",
+      description: "BIENVENIDOS",
       brand: "DOZURTV",
       image: "tp.jpeg",
       bgColor: "bg-gradient-to-br from-purple-400 via-purple-500 to-purple-600"
@@ -26,7 +26,7 @@ export default function HomePage() {
     {
       title: "LOS REYES DEL FÚTBOL SALA", 
       subtitle: "MAGOS",
-      description: "NIKE STREET GATO",
+      description: "BIENVENIDOS",
       brand: "DOZURTV",
       image: "hbp.jpeg",
       bgColor: "bg-gradient-to-br from-gray-800 via-gray-900 to-black"
@@ -34,7 +34,7 @@ export default function HomePage() {
     {
       title: "LOS REYES DEL FÚTBOL SALA",
       subtitle: "MAGOS", 
-      description: "NIKE STREET GATO",
+      description: "BIENVENIDOS",
       brand: "DOZURTV",
       image: "vecpor.jpg",
       bgColor: "bg-gradient-to-br from-red-500 via-red-600 to-red-700"
