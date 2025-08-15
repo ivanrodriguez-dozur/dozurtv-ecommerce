@@ -36,7 +36,7 @@ export default function HomePage() {
       subtitle: "MAGOS", 
       description: "NIKE STREET GATO",
       brand: "DOZURTV",
-      image: "https://placehold.co/800x600?text=Nike+Street+Gato+Red+Edition+Hero+Shot",
+      image: "vecpor.jpg",
       bgColor: "bg-gradient-to-br from-red-500 via-red-600 to-red-700"
     }
   ]
